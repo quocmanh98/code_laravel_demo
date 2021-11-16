@@ -1,0 +1,2 @@
+php artisan make:mail DemoMail
+php artisan make:middleware CheckAge
